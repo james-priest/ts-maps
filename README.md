@@ -9,8 +9,8 @@ This is an exercise from Udemy course [Typescript: The Complete Developer's Guid
 Clone the repo, change directories, and install parcel.
 
 ```bash
-git clone https://github.com/james-priest/ts-sort.git
-cd ts-sort
+git clone https://github.com/james-priest/ts-maps.git
+cd ts-maps
 npm install parcel-bundler
 ```
 
